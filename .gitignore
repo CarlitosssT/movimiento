@@ -1,0 +1,15 @@
+# Entorno de Python
+wearable/
+wearable2/
+wearable_old/
+__pycache__/
+.ipynb_checkpoints/
+
+# Registros generados por el notebook
+imus_servos_*.csv
+angulos_*.csv
+
+# Compilación de Arduino
+build/
+*.bin
+*.elf
